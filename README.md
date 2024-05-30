@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm A.M. Dileepa Tharindu Bandara</h1>
+<h1 align="center">Hi 👋, I'm Dileepa Abeykoon</h1>
 <h3 align="center">A passionate Softwere Engineer from Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileepa24046&label=Profile%20views&color=0e75b6&style=flat" alt="dileepa24046" /> </p>
